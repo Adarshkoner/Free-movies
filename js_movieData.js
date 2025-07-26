@@ -2,11 +2,11 @@
 const movies = [
     {
         id: 1,
-        title: "Sample Movie 1",
-        description: "This is a sample movie description.",
+        title: "The Amazing Spider-Man",
+        description: "The Amazing Spider-Man 2012 Hindi Dubbed Full Movie",
         category: "action",
         thumbnail: "https://via.placeholder.com/300x450",
-        videoUrl: "path/to/your/video1.mp4"
+        videoUrl: ""
     },
     {
         id: 2,
