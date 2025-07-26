@@ -6,7 +6,7 @@ const movies = [
         description: "The Amazing Spider-Man 2012 Hindi Dubbed Full Movie",
         category: "action",
         thumbnail: "https://via.placeholder.com/300x450",
-        videoUrl: ""
+        videoUrl: "https://drive.google.com/file/d/1PG6xIfPA00Du0BsLBFKh4LPQovXVynv2/view?usp=drivesdk"
     },
     {
         id: 2,
